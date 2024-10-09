@@ -1,5 +1,5 @@
 # 💫 About Me:
-Recent Computer Engineering Graduate from Imperial College London, interested in Machine Learning and Quantitative Analytics!
+Recent Computer Engineering Graduate from Imperial College London, interested in Machine Learning and Quantitative Finance!
 
 
 # 💻 Tech Stack:
